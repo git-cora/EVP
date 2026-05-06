@@ -1,4 +1,4 @@
-# EVP
+# ExpValPipeline
 Plant based drug discovery pipeline through experimentally validated ligand binding (ExpValPipeline).
 
 This project links COCONUT, a natural products database where one can search from a multitude of species
